@@ -1,0 +1,18 @@
+* {
+    box-sizing: border-box;
+}
+
+.courses-container {
+    float: left;
+    margin: 10px;
+}
+
+.logo {
+    width: 50%;
+    margin: 10px;
+}
+
+.course-btn {
+    margin: 2px;
+    width: 15%;
+}
